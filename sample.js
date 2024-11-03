@@ -4,7 +4,7 @@ const path = require('path');
 const { title } = require('process');
 const PORT = process.env.PORT || 3000;
 
-// Set the view engine to ejs
+// Set the view engine to ejs edit
 app.set('view engine', 'ejs');
 
 // Define the views directory (if not in the default location 'views' folder)
